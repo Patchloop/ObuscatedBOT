@@ -1,3 +1,5 @@
+[![GET PREMIUM BOT](https://img.shields.io/badge/GET%20PREMIUM%20BOT-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Patchloop/Chat-uncensored-AI)
+
 # obfuscatedbot - multi functions tg bot
 
 hello this is telegram bot for osint and security testing i make for my self but maybe other people want use too
